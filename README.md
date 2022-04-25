@@ -4,16 +4,17 @@ Currently finishing a coding Bootcamp and working on an Individual Project.
 ## About me
 <p>
 Flexible and positive, I started my formal studies as Computer Analyst in 2020. I learned many valuable skills, but the most important is reinvention.
+My other interest topics are languages. I studied English in a private school for ten years, where I was a distinguished student. One of my desires is to combine both passions and build a personal career. 
 <br><br>
 Last year I found my interest in Web Development and decided to form myself. Learning something new every day is what keeps me pursuing my goals.
-My other interest topics are languages. I studied English in a private school for ten years, where I was a distinguished student. One of my desires is to combine both passions and build a personal career.  
-<br><br>
 I consider myself a curious person, which may be a reason why I choose this profession.
+<br><br>
+I love music, cats and reading books. Travelling is also a thing I find pleasant and relaxing. Being surrounded by nature and animals gives me calmness and keeps my mind fresh. A well-balanced work-life is fair and essential for a good performance.
 I'm eager to find my first IT job to grow my existing skills and discover new ones!
 <br><br>
 <p>
 
-### Technologies
+## Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
