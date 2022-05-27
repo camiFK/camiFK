@@ -26,6 +26,10 @@ I'm eager to find my first IT job to grow my existing skills and discover new on
   <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
+## My projects ⬇️
+<h3>Pokemon App</h3>
+<a href='https://github.com/camiFK/PokeApp'>Code</a>
+
 ## Contact
 <div> 
  <a href="https://www.linkedin.com/in/camilafkapp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
