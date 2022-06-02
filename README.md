@@ -32,7 +32,7 @@ I'm eager to find my first IT job to grow my existing skills and discover new on
 
 ## My projects ⬇️
 <h3>Pokemon App</h3>
-<a href='https://github.com/camiFK/PokeApp'>Code</a>
+<a href='https://github.com/camiFK/PokemonApp'>Code</a>
 
 ## Contact
 <div> 
