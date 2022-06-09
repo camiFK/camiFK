@@ -1,5 +1,5 @@
 ## Hi! I'm Camila, CS Student and Full Stack Web Dev 
-Currently finishing a coding Bootcamp and working on an Individual Project.
+Currently finishing a coding Bootcamp and working on an Group Project.
 
 ## About me
 <p>
