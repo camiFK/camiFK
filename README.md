@@ -1,5 +1,4 @@
 ## Hi! I'm Camila, CS Student and Full Stack Web Dev 
-Currently finishing a coding Bootcamp and learning Typescript.
 
 ## About me
 <p>
