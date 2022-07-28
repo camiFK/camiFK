@@ -1,19 +1,16 @@
-## Hi! I'm Camila, CS Student and Full Stack Web Dev 
+### Hi! I'm Camila, CS Student and Full Stack Web Dev 
 
-## About me
+### About me
 <p>
-Flexible and positive, I started my formal studies as Computer Analyst in 2020. I learned many valuable skills, but the most important is reinvention.
-My other interest topics are languages. I studied English in a private school for ten years, where I was a distinguished student. One of my desires is to combine both passions and build a personal career. 
+I am a Computer Science student and recently graduated Full Stack Developer. I also studied English in a private school for ten years, where I was a distinguished student.
 <br><br>
 Last year I found my interest in Web Development and decided to form myself. Learning something new every day is what keeps me pursuing my goals.
-I consider myself a curious person, which may be a reason why I choose this profession.
+I consider myself a curious person, which may be the reason why I chose this profession.
 <br><br>
-I love music, cats and reading books. Travelling is also a thing I find pleasant and relaxing. Being surrounded by nature and animals gives me calmness and keeps my mind fresh. A well-balanced work-life is fair and essential for a good performance.
-I'm eager to find my first IT job to grow my existing skills and discover new ones!
-<br><br>
+I am eager to find a job where I can grow my existing skills and discover new ones!
 <p>
 
-## Technologies
+### Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -29,7 +26,7 @@ I'm eager to find my first IT job to grow my existing skills and discover new on
   <img align="center" alt="Vercel" height="30" width="50" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
 </div>
 
-## My projects ⬇️
+### My projects ⬇️
 <h3>Pokemon App</h3>
 <a href='https://github.com/camiFK/PokemonApp'>Code</a>
 
@@ -40,7 +37,7 @@ I'm eager to find my first IT job to grow my existing skills and discover new on
 <a href='https://github.com/camiFK/ProyectoGrupal'>Code</a>
 
 
-## Contact
+### Contact
 <div> 
  <a href="https://www.linkedin.com/in/camilafkapp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:camilafkapp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
