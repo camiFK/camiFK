@@ -1,6 +1,6 @@
 ### Hi! I'm Camila, CS Student and Full Stack Web Dev 
 <p>
-I am currently working as a Frontend Developer, learning Angular, C#, and .NET.
+I am currently working as a Developer, learning AngularJs and .Net.
 <br><br>
 Feel free to contact me.
 <p>
