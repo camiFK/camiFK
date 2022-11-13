@@ -10,8 +10,6 @@ Feel free to contact me.
   <a href = "mailto:camilafkapp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
-### My skills
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,20 +25,3 @@ Feel free to contact me.
   <img align="center" alt="Heroku" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
   <img align="center" alt="Vercel" height="30" width="50" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">
 </div>
-
-### My projects ⬇️
-
-<h4>Marvel App (in process)</h4>
-<a href='https://github.com/camiFK/MarvelApp'>Code</a>
-
-<h4>Pokemon App</h4>
-<a href='https://github.com/camiFK/PokemonApp'>Code</a>
-
-<h4>Videogames App</h4>
-<a href='https://github.com/camiFK/AppVideogames'>Code</a>
-
-<h4>Servi Express</h4>
-<a href='https://github.com/camiFK/ProyectoGrupal'>Code</a>
-
-<h4>Disney API</h4>
-<a href='https://github.com/camiFK/DisneyApi'>Code</a>
