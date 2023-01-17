@@ -1,6 +1,6 @@
 ### Hi! I'm Camila, CS Student and Fullstack Dev 
 <p>
-I am currently working as a Developer in the industrial automation industry :wrench: :gear:.
+I am currently working as a Fullstack Developer (React/Angular/.NET): :gear:.
 <br><br>
 Feel free to contact me.
 <p>
